@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository contains the source code for my persona
 
 ## Demo
 
-You can view the live site at: [https://your-live-site-url.com](https://your-live-site-url.com) <!-- Replace with your actual URL if available -->
+You can view the live site at:
 
 ## Features
 
