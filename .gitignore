@@ -1,0 +1,49 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Build output
+dist/
+build/
+out/
+public/
+
+# VSCode settings
+.vscode/
+.history/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+*.log
+
+# SASS cache
+.sass-cache/
+
+# Misc
+*.swp
+*.swo
+
+# Parcel cache
+.cache/
+
+# IDEs and editors
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Others
+coverage/
+*.tgz
